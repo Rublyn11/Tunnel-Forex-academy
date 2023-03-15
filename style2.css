@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+}
+:root{
+  --bg-color: #fff;
+  --text-color: rgb(0, 0, 0);
+  --main-color: #f8a230;
+  --big-font: 6rem;
+  --h2-font: 3rem;
+  --p-font: 1.1rem;
+  --second-bg-color: rgb(140, 197, 243);
+  --suplimentry-color: #2d3b2d;
+  --end-bg-color: #000;
+}
